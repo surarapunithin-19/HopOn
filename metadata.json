@@ -1,0 +1,6 @@
+{
+  "name": "HopOn - Next-Gen Ride Sharing Platform",
+  "description": "A full-stack ride-sharing platform with dedicated portals for Passengers, Captains (Drivers), and Admins, featuring live GPS route tracking, ride matching, emergency SOS, wallet & payments, and verification management.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
